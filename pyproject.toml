@@ -1,0 +1,122 @@
+[tool.poetry]
+name = "pysmartthings"
+version = "0.0.0"
+description = "Asynchronous Python client for SmartThings."
+authors = ["Andrew Sayre <andrew@sayre.net>"]
+maintainers = ["Joost Lekkerkerker <joostlek@outlook.com>"]
+license = "Apache-2.0"
+readme = "README.md"
+homepage = "https://github.com/pySmartThings/pysmartthings"
+repository = "https://github.com/pySmartThings/pysmartthings"
+documentation = "https://github.com/pySmartThings/pysmartthings"
+keywords = ["smartthings", "api", "async", "client"]
+classifiers = [
+  "Development Status :: 5 - Production/Stable",
+  "Framework :: AsyncIO",
+  "Intended Audience :: Developers",
+  "Natural Language :: English",
+  "Programming Language :: Python :: 3.11",
+  "Programming Language :: Python :: 3.12",
+  "Programming Language :: Python :: 3.13",
+  "Programming Language :: Python :: 3",
+  "Topic :: Home Automation",
+  "Topic :: Software Development :: Libraries :: Python Modules",
+]
+packages = [
+    { include = "pysmartthings", from = "src" },
+]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+aiohttp = "3.9.0"
+
+[tool.poetry.group.dev.dependencies]
+black = "23.3.0"
+coveralls = "3.3.1"
+flake8 = "6.0.0"
+flake8-docstrings = "1.7.0"
+pydocstyle = "6.3.0"
+isort = "5.12.0"
+pylint = "3.3.3"
+pytest = "7.4.0"
+pytest-asyncio = "0.21.0"
+pytest-cov = "4.1.0"
+pytest-timeout = "2.1.0"
+yarl = "1.9.2"
+pre-commit = "^4.1.0"
+pre-commit-hooks = "^5.0.0"
+
+[tool.poetry.urls]
+"Bug Tracker" = "https://github.com/pySmartThings/pysmartthings/issues"
+Changelog = "https://github.com/pySmartThings/pysmartthings/releases"
+
+[tool.coverage.report]
+show_missing = true
+
+[tool.coverage.run]
+plugins = ["covdefaults"]
+source = ["pysmartthings"]
+
+[tool.pylint.MASTER]
+ignore = [
+  "tests",
+]
+
+[tool.pylint.BASIC]
+good-names = [
+  "_",
+  "ex",
+  "fp",
+  "i",
+  "id",
+  "j",
+  "k",
+  "on",
+  "Run",
+  "T",
+]
+
+[tool.pylint.DESIGN]
+max-attributes = 8
+
+[tool.pylint."MESSAGES CONTROL"]
+disable = [
+  "format",
+  "abstract-method",
+  "cyclic-import",
+  "global-statement",
+  "inconsistent-return-statements",
+  "locally-disabled",
+  "not-an-iterable",
+  "not-context-manager",
+  "too-few-public-methods",
+  "too-many-arguments",
+  "too-many-branches",
+  "too-many-lines",
+  "too-many-locals",
+  "too-many-public-methods",
+  "too-many-return-statements",
+  "too-many-statements",
+  "unnecessary-pass",
+  "unused-argument",
+  "duplicate-code",
+  "unsubscriptable-object",
+  "too-many-instance-attributes",
+  "wrong-import-order",
+  "too-many-arguments",
+  "too-many-positional-arguments",
+]
+
+[tool.pylint.SIMILARITIES]
+ignore-imports = true
+
+[tool.pylint.FORMAT]
+max-line-length = 88
+
+[tool.pytest.ini_options]
+addopts = "--cov"
+asyncio_mode = "auto"
+
+[build-system]
+build-backend = "poetry.core.masonry.api"
+requires = ["poetry-core>=1.0.0"]

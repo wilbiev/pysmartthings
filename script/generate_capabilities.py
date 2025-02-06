@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
-"""Generate capabilitiy constants."""
+"""Generate capability constants."""
 import re
 import sys
 
-sys.path.append(".")
 from pysmartthings.capability import CAPABILITIES
 
 

@@ -43,6 +43,8 @@ pytest-asyncio = "0.21.0"
 pytest-cov = "4.1.0"
 pytest-timeout = "2.1.0"
 yarl = "1.9.2"
+pre-commit = "^4.1.0"
+pre-commit-hooks = "^5.0.0"
 
 [tool.poetry.urls]
 "Bug Tracker" = "https://github.com/pySmartThings/pysmartthings/issues"
@@ -79,8 +81,25 @@ max-attributes = 8
 
 [tool.pylint."MESSAGES CONTROL"]
 disable = [
-  "duplicate-code",
   "format",
+  "abstract-method",
+  "cyclic-import",
+  "global-statement",
+  "inconsistent-return-statements",
+  "locally-disabled",
+  "not-an-iterable",
+  "not-context-manager",
+  "too-few-public-methods",
+  "too-many-arguments",
+  "too-many-branches",
+  "too-many-lines",
+  "too-many-locals",
+  "too-many-public-methods",
+  "too-many-return-statements",
+  "too-many-statements",
+  "unnecessary-pass",
+  "unused-argument",
+  "duplicate-code",
   "unsubscriptable-object",
   "too-many-instance-attributes",
   "wrong-import-order",

@@ -10,7 +10,7 @@ with open(os.path.join("README.md"), "r") as fh:
     long_description = fh.read()
 
 const = {}
-with open(os.path.join("pysmartthings", "const.py"), "r") as fp:
+with open(os.path.join("src/pysmartthings", "const.py"), "r") as fp:
     exec(fp.read(), const)
 
 setup(

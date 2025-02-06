@@ -2,13 +2,14 @@
 
 from __future__ import annotations
 
-import json as _json
+from pathlib import Path
 from typing import Optional, Union, TYPE_CHECKING
 from urllib.parse import parse_qs
 
 from aiohttp import ClientSession
 from aiohttp.client_exceptions import ClientResponseError
 from yarl import URL
+import json as _json
 
 if TYPE_CHECKING:
     from collections.abc import Sequence
@@ -17,10 +18,10 @@ BodyFixtureType = Optional[Union[str, list, dict]]
 BodyType = Optional[Union[list, dict]]
 
 
-def get_json(file):
+def get_json(filename: str) -> dict | list:
     """Load a json file."""
-    with open("tests/json/" + file, encoding="utf-8") as json_file:
-        return _json.load(json_file)
+    path = Path(__package__) / "fixtures" / filename
+    return _json.loads(path.read_text(encoding="utf-8"))
 
 
 def _get_json_fixture(body: BodyFixtureType) -> BodyType:

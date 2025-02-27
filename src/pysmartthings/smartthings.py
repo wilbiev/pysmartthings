@@ -57,6 +57,9 @@ class SmartThings:
         tuple[str, str, Capability | str],
         list[Callable[[DeviceEvent], None]],
     ] = field(default_factory=dict)
+    __device_event_listeners: dict[str, list[Callable[[DeviceEvent], None]]] = field(
+        default_factory=dict
+    )
 
     async def refresh_token(self) -> None:
         """Refresh token with provided function."""
@@ -246,7 +249,7 @@ class SmartThings:
         )
         LOGGER.debug("Command response: %s", response)
 
-    def add_device_event_listener(
+    def add_device_capability_event_listener(
         self,
         device_id: str,
         component_id: str,
@@ -259,6 +262,15 @@ class SmartThings:
             self.__capability_event_listeners[key] = []
         self.__capability_event_listeners[key].append(callback)
         return lambda: self.__capability_event_listeners[key].remove(callback)
+
+    def add_device_event_listener(
+        self, device_id: str, callback: Callable[[DeviceEvent], None]
+    ) -> Callable[[], None]:
+        """Add a listener for device events."""
+        if device_id not in self.__device_event_listeners:
+            self.__device_event_listeners[device_id] = []
+        self.__device_event_listeners[device_id].append(callback)
+        return lambda: self.__device_event_listeners[device_id].remove(callback)
 
     async def _create_subscription(
         self, location_id: str, installed_app_id: str
@@ -299,6 +311,11 @@ class SmartThings:
                         LOGGER.debug("Received event: %s", event.data)
                         event_type = Event.from_json(event.data)
                         device_event = event_type.device_event
+                        if device_event.device_id in self.__device_event_listeners:
+                            for callback in self.__device_event_listeners[
+                                device_event.device_id
+                            ]:
+                                callback(device_event)
                         key = (
                             device_event.device_id,
                             device_event.component_id,

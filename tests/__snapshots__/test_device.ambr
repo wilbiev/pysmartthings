@@ -48,6 +48,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -78,6 +79,7 @@
       'ocf': None,
       'parent_device_id': '6a2d07a4-dd77-48bc-9acf-017029aaf099',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -105,6 +107,7 @@
       'ocf': None,
       'parent_device_id': '6a2d07a4-dd77-48bc-9acf-017029aaf099',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -135,6 +138,7 @@
       'ocf': None,
       'parent_device_id': '6a2d07a4-dd77-48bc-9acf-017029aaf099',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -159,6 +163,7 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.HUB: 'HUB'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -189,6 +194,7 @@
       'ocf': None,
       'parent_device_id': '6a2d07a4-dd77-48bc-9acf-017029aaf099',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -219,6 +225,7 @@
       'ocf': None,
       'parent_device_id': '6a2d07a4-dd77-48bc-9acf-017029aaf099',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -249,6 +256,7 @@
       'ocf': None,
       'parent_device_id': '6a2d07a4-dd77-48bc-9acf-017029aaf099',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -279,6 +287,7 @@
       'ocf': None,
       'parent_device_id': '6a2d07a4-dd77-48bc-9acf-017029aaf099',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -309,6 +318,7 @@
       'ocf': None,
       'parent_device_id': '6a2d07a4-dd77-48bc-9acf-017029aaf099',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -339,6 +349,7 @@
       'ocf': None,
       'parent_device_id': '6a2d07a4-dd77-48bc-9acf-017029aaf099',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -367,6 +378,7 @@
       'ocf': None,
       'parent_device_id': '6a2d07a4-dd77-48bc-9acf-017029aaf099',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -397,6 +409,7 @@
       'ocf': None,
       'parent_device_id': '6a2d07a4-dd77-48bc-9acf-017029aaf099',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -427,6 +440,7 @@
       'ocf': None,
       'parent_device_id': '6a2d07a4-dd77-48bc-9acf-017029aaf099',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -494,6 +508,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -558,6 +573,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -586,6 +602,7 @@
       'ocf': None,
       'parent_device_id': '6a2d07a4-dd77-48bc-9acf-017029aaf099',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
+      'viper': None,
     }),
   ])
 # ---
@@ -618,6 +635,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': 'SKY40147',
+        'manufacturer_name': 'Sensibo',
+        'model_name': 'skyplus',
+        'software_version': 'SKY40147',
+      }),
     }),
     dict({
       'components': list([
@@ -712,6 +735,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -736,6 +760,7 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.HUB: 'HUB'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -760,6 +785,7 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.HUB: 'HUB'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -787,6 +813,7 @@
       'ocf': None,
       'parent_device_id': '148606b0-9c62-417c-8c0a-c6e4ef7ce269',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -815,6 +842,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': 'SKY30046',
+        'manufacturer_name': 'Sensibo',
+        'model_name': 'skyv2',
+        'software_version': 'SKY30046',
+      }),
     }),
     dict({
       'components': list([
@@ -842,6 +875,7 @@
       'ocf': None,
       'parent_device_id': '71526aa9-6457-417a-9bae-b83c87761e6a',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -870,6 +904,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': 'SKY30046',
+        'manufacturer_name': 'Sensibo',
+        'model_name': 'skyv2',
+        'software_version': 'SKY30046',
+      }),
     }),
   ])
 # ---
@@ -968,6 +1008,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -1031,6 +1072,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
   ])
 # ---
@@ -1059,6 +1101,7 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.HUB: 'HUB'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -1086,6 +1129,7 @@
       'ocf': None,
       'parent_device_id': 'd7c54320-6d75-4543-ab1f-9bd105336aae',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -1180,6 +1224,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
   ])
 # ---
@@ -1274,6 +1319,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -1337,6 +1383,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -1384,6 +1431,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -1448,6 +1496,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -1472,6 +1521,7 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.HUB: 'HUB'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -1533,6 +1583,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -1607,6 +1658,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -1639,6 +1691,7 @@
       'ocf': None,
       'parent_device_id': '2f7f7d2b-e683-48ae-86f7-e57df6a0bce2',
       'type': <DeviceType.LAN: 'LAN'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -1844,6 +1897,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -1920,6 +1974,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
   ])
 # ---
@@ -2129,6 +2184,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -2219,6 +2275,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -2244,6 +2301,7 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIRTUAL: 'VIRTUAL'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -2307,6 +2365,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -2348,6 +2407,7 @@
       }),
       'parent_device_id': '425ac77a-f7c9-a62d-ff12-cdad144952e3',
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -2415,6 +2475,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -2455,6 +2516,7 @@
       }),
       'parent_device_id': '425ac77a-f7c9-a62d-ff12-cdad144952e3',
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -2503,6 +2565,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
   ])
 # ---
@@ -2537,6 +2600,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': 'LTG002',
+        'manufacturer_name': 'Signify Netherlands B.V.',
+        'model_name': 'Hue ambiance spot',
+        'software_version': '1.122.2',
+      }),
     }),
     dict({
       'components': list([
@@ -2569,6 +2638,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': 'LCA001',
+        'manufacturer_name': 'Signify Netherlands B.V.',
+        'model_name': 'Hue color lamp',
+        'software_version': '1.122.2',
+      }),
     }),
     dict({
       'components': list([
@@ -2599,6 +2674,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': 'LTG002',
+        'manufacturer_name': 'Signify Netherlands B.V.',
+        'model_name': 'Hue ambiance spot',
+        'software_version': '1.122.2',
+      }),
     }),
     dict({
       'components': list([
@@ -2626,6 +2707,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': 'WoCurtain3-WoCurtain3',
+        'manufacturer_name': 'WonderLabs Company',
+        'model_name': 'WoCurtain3',
+        'software_version': None,
+      }),
     }),
     dict({
       'components': list([
@@ -2653,6 +2740,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': 'WoCurtain3-WoCurtain3',
+        'manufacturer_name': 'WonderLabs Company',
+        'model_name': 'WoCurtain3',
+        'software_version': None,
+      }),
     }),
     dict({
       'components': list([
@@ -2683,6 +2776,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': 'LTG002',
+        'manufacturer_name': 'Signify Netherlands B.V.',
+        'model_name': 'Hue ambiance spot',
+        'software_version': '1.122.2',
+      }),
     }),
     dict({
       'components': list([
@@ -2710,6 +2809,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': 'SML001',
+        'manufacturer_name': 'Signify Netherlands B.V.',
+        'model_name': 'Hue motion sensor',
+        'software_version': '67.115.5',
+      }),
     }),
     dict({
       'components': list([
@@ -2740,6 +2845,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': 'LTG002',
+        'manufacturer_name': 'Signify Netherlands B.V.',
+        'model_name': 'Hue ambiance spot',
+        'software_version': '1.122.2',
+      }),
     }),
     dict({
       'components': list([
@@ -2770,6 +2881,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': 'LTG002',
+        'manufacturer_name': 'Signify Netherlands B.V.',
+        'model_name': 'Hue ambiance spot',
+        'software_version': '1.122.2',
+      }),
     }),
     dict({
       'components': list([
@@ -2802,6 +2919,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': 'LCT012',
+        'manufacturer_name': 'Signify Netherlands B.V.',
+        'model_name': 'Hue color candle',
+        'software_version': '1.116.3',
+      }),
     }),
     dict({
       'components': list([
@@ -2828,6 +2951,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': None,
+        'manufacturer_name': 'Netatmo',
+        'model_name': 'NAPlug',
+        'software_version': None,
+      }),
     }),
     dict({
       'components': list([
@@ -2860,6 +2989,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': '440400982842',
+        'manufacturer_name': 'Signify Netherlands B.V.',
+        'model_name': 'Hue Play',
+        'software_version': '1.122.2',
+      }),
     }),
     dict({
       'components': list([
@@ -2888,6 +3023,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': 'WoHub2-WoHub2',
+        'manufacturer_name': 'WonderLabs Company',
+        'model_name': 'WoHub2',
+        'software_version': None,
+      }),
     }),
     dict({
       'components': list([
@@ -2920,6 +3061,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': '440400982842',
+        'manufacturer_name': 'Signify Netherlands B.V.',
+        'model_name': 'Hue Play',
+        'software_version': '1.122.2',
+      }),
     }),
     dict({
       'components': list([
@@ -2946,6 +3093,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': 'remote-16',
+        'manufacturer_name': 'WonderLabs Company',
+        'model_name': 'remote',
+        'software_version': None,
+      }),
     }),
     dict({
       'components': list([
@@ -2978,6 +3131,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': 'LCL001',
+        'manufacturer_name': 'Signify Netherlands B.V.',
+        'model_name': 'Hue lightstrip plus',
+        'software_version': '1.122.2',
+      }),
     }),
     dict({
       'components': list([
@@ -3008,6 +3167,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': 'LTG002',
+        'manufacturer_name': 'Signify Netherlands B.V.',
+        'model_name': 'Hue ambiance spot',
+        'software_version': '1.122.2',
+      }),
     }),
     dict({
       'components': list([
@@ -3040,6 +3205,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': '440400982842',
+        'manufacturer_name': 'Signify Netherlands B.V.',
+        'model_name': 'Hue Play',
+        'software_version': '1.122.2',
+      }),
     }),
     dict({
       'components': list([
@@ -3070,6 +3241,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': 'LTG002',
+        'manufacturer_name': 'Signify Netherlands B.V.',
+        'model_name': 'Hue ambiance spot',
+        'software_version': '1.122.2',
+      }),
     }),
     dict({
       'components': list([
@@ -3102,6 +3279,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': '440400982842',
+        'manufacturer_name': 'Signify Netherlands B.V.',
+        'model_name': 'Hue Play',
+        'software_version': '1.122.2',
+      }),
     }),
   ])
 # ---
@@ -3180,6 +3363,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
   ])
 # ---
@@ -3260,6 +3444,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -3322,6 +3507,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -3391,6 +3577,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -3569,6 +3756,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -3593,6 +3781,7 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.HUB: 'HUB'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -3643,6 +3832,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -3733,6 +3923,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
   ])
 # ---
@@ -3773,6 +3964,7 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.BLE_D2D: 'BLE_D2D'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -3863,6 +4055,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -3899,6 +4092,7 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.BLE_D2D: 'BLE_D2D'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -3935,6 +4129,7 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.BLE_D2D: 'BLE_D2D'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -3971,6 +4166,7 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.BLE_D2D: 'BLE_D2D'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -4007,6 +4203,7 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.BLE_D2D: 'BLE_D2D'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -4043,6 +4240,7 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.BLE_D2D: 'BLE_D2D'>,
+      'viper': None,
     }),
   ])
 # ---
@@ -4133,6 +4331,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -4180,6 +4379,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -4223,6 +4423,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -4288,6 +4489,7 @@
       }),
       'parent_device_id': '0e168539-061a-5f02-2beb-cc5cb6bb3b7b',
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -4374,6 +4576,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
   ])
 # ---
@@ -4481,6 +4684,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
   ])
 # ---
@@ -4517,6 +4721,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': None,
+        'manufacturer_name': 'Arlo',
+        'model_name': 'VMC4060B',
+        'software_version': None,
+      }),
     }),
     dict({
       'components': list([
@@ -4555,6 +4765,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -4582,6 +4793,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -4610,6 +4822,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -4640,6 +4853,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -4666,6 +4880,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -4723,6 +4938,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -4749,6 +4965,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -4780,6 +4997,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': None,
+        'manufacturer_name': 'Arlo',
+        'model_name': 'VMC4030P',
+        'software_version': None,
+      }),
     }),
     dict({
       'components': list([
@@ -4810,6 +5033,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -4838,6 +5062,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -4900,6 +5125,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -4926,6 +5152,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.VIRTUAL: 'VIRTUAL'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -4952,6 +5179,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -4979,6 +5207,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -5007,6 +5236,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -5031,6 +5261,7 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.HUB: 'HUB'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -5193,6 +5424,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -5221,6 +5453,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -5246,6 +5479,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.VIRTUAL: 'VIRTUAL'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -5273,6 +5507,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -5300,6 +5535,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -5330,6 +5566,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -5356,6 +5593,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.VIRTUAL: 'VIRTUAL'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -5381,6 +5619,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -5407,6 +5646,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -5433,6 +5673,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -5465,6 +5706,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': None,
+        'manufacturer_name': 'Arlo',
+        'model_name': 'VMC2030B',
+        'software_version': None,
+      }),
     }),
     dict({
       'components': list([
@@ -5491,6 +5738,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -5523,6 +5771,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': None,
+        'manufacturer_name': 'Arlo',
+        'model_name': 'FB1001A',
+        'software_version': None,
+      }),
     }),
     dict({
       'components': list([
@@ -5550,6 +5804,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -5578,6 +5833,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -5610,6 +5866,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': None,
+        'manufacturer_name': 'Arlo',
+        'model_name': 'VMC2030B',
+        'software_version': None,
+      }),
     }),
     dict({
       'components': list([
@@ -5634,6 +5896,7 @@
       'ocf': None,
       'parent_device_id': 'b8e11599-5297-4574-8e62-885995fcaa20',
       'type': <DeviceType.MOBILE: 'MOBILE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -5691,6 +5954,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -5739,6 +6003,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.LAN: 'LAN'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -5765,6 +6030,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -5793,6 +6059,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -5821,6 +6088,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -5846,6 +6114,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.VIRTUAL: 'VIRTUAL'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -5872,6 +6141,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': '1.0',
+        'manufacturer_name': 'TP-LINK',
+        'model_name': 'KP115(US)',
+        'software_version': '1.0.21 Build 231129 Rel.171238',
+      }),
     }),
     dict({
       'components': list([
@@ -5898,6 +6173,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -5924,6 +6200,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -5950,6 +6227,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': None,
+        'manufacturer_name': 'Arlo',
+        'model_name': 'VMB4000',
+        'software_version': None,
+      }),
     }),
     dict({
       'components': list([
@@ -5977,6 +6260,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6003,6 +6287,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6033,6 +6318,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6060,6 +6346,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6090,6 +6377,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6118,6 +6406,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': '1.0',
+        'manufacturer_name': 'TP-LINK',
+        'model_name': 'ES20M(US)',
+        'software_version': '1.0.11 Build 240514 Rel.110351',
+      }),
     }),
     dict({
       'components': list([
@@ -6146,6 +6440,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6173,6 +6468,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6211,6 +6507,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6238,6 +6535,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6266,6 +6564,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6292,6 +6591,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6320,6 +6620,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6352,6 +6653,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': None,
+        'manufacturer_name': 'Arlo',
+        'model_name': 'AVD1001A',
+        'software_version': None,
+      }),
     }),
     dict({
       'components': list([
@@ -6378,6 +6685,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6405,6 +6713,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6431,6 +6740,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6461,6 +6771,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6485,6 +6796,7 @@
       'ocf': None,
       'parent_device_id': '6b61e197-d25a-49e5-b812-4b2501f031d9',
       'type': <DeviceType.MOBILE: 'MOBILE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6509,6 +6821,7 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.HUB: 'HUB'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6539,6 +6852,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6571,6 +6885,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': None,
+        'manufacturer_name': 'Arlo',
+        'model_name': 'FB1001B',
+        'software_version': None,
+      }),
     }),
     dict({
       'components': list([
@@ -6597,6 +6917,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': '1.0',
+        'manufacturer_name': 'TP-LINK',
+        'model_name': 'KP115(US)',
+        'software_version': '1.0.21 Build 231129 Rel.171238',
+      }),
     }),
     dict({
       'components': list([
@@ -6627,6 +6953,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6672,6 +6999,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6697,6 +7025,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.LAN: 'LAN'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6725,6 +7054,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6751,6 +7081,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6777,6 +7108,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6808,6 +7140,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': None,
+        'manufacturer_name': 'Arlo',
+        'model_name': 'VMC4030P',
+        'software_version': None,
+      }),
     }),
     dict({
       'components': list([
@@ -6839,6 +7177,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': None,
+        'manufacturer_name': 'Arlo',
+        'model_name': 'VMC4030P',
+        'software_version': None,
+      }),
     }),
     dict({
       'components': list([
@@ -6877,6 +7221,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6907,6 +7252,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6939,6 +7285,12 @@
       'ocf': None,
       'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
+      'viper': dict({
+        'hardware_version': None,
+        'manufacturer_name': 'Arlo',
+        'model_name': 'VMC4041PB',
+        'software_version': None,
+      }),
     }),
     dict({
       'components': list([
@@ -6966,6 +7318,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -6993,6 +7346,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -7022,6 +7376,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -7048,6 +7403,7 @@
       'ocf': None,
       'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
+      'viper': None,
     }),
   ])
 # ---
@@ -7126,6 +7482,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -7200,6 +7557,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -7267,6 +7625,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -7341,6 +7700,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -7415,6 +7775,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
     dict({
       'components': list([
@@ -7489,6 +7850,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
   ])
 # ---
@@ -7528,6 +7890,7 @@
       }),
       'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
+      'viper': None,
     }),
   ])
 # ---
@@ -7561,6 +7924,12 @@
     'ocf': None,
     'parent_device_id': None,
     'type': <DeviceType.VIPER: 'VIPER'>,
+    'viper': dict({
+      'hardware_version': 'LTG002',
+      'manufacturer_name': 'Signify Netherlands B.V.',
+      'model_name': 'Hue ambiance spot',
+      'software_version': '1.122.2',
+    }),
   })
 # ---
 # name: test_fetching_status_of_single_device[27_smart_monitor_m5]

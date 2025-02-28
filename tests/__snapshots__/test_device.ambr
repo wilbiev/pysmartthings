@@ -46,6 +46,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'VD-NetworkAudio-002S',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -75,6 +76,7 @@
       'location_id': '6911ddf5-f0cb-4516-a06a-3a2a6ec22bca',
       'name': 'multi-sensor',
       'ocf': None,
+      'parent_device_id': '6a2d07a4-dd77-48bc-9acf-017029aaf099',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -101,6 +103,7 @@
       'location_id': '6911ddf5-f0cb-4516-a06a-3a2a6ec22bca',
       'name': 'motion-battery',
       'ocf': None,
+      'parent_device_id': '6a2d07a4-dd77-48bc-9acf-017029aaf099',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -130,6 +133,7 @@
       'location_id': '6911ddf5-f0cb-4516-a06a-3a2a6ec22bca',
       'name': 'multi-sensor',
       'ocf': None,
+      'parent_device_id': '6a2d07a4-dd77-48bc-9acf-017029aaf099',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -153,6 +157,7 @@
       'location_id': '6911ddf5-f0cb-4516-a06a-3a2a6ec22bca',
       'name': 'SmartThings v3 Hub',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.HUB: 'HUB'>,
     }),
     dict({
@@ -182,6 +187,7 @@
       'location_id': '6911ddf5-f0cb-4516-a06a-3a2a6ec22bca',
       'name': 'Multipurpose Sensor',
       'ocf': None,
+      'parent_device_id': '6a2d07a4-dd77-48bc-9acf-017029aaf099',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -211,6 +217,7 @@
       'location_id': '6911ddf5-f0cb-4516-a06a-3a2a6ec22bca',
       'name': 'Multipurpose Sensor',
       'ocf': None,
+      'parent_device_id': '6a2d07a4-dd77-48bc-9acf-017029aaf099',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -240,6 +247,7 @@
       'location_id': '6911ddf5-f0cb-4516-a06a-3a2a6ec22bca',
       'name': 'Multipurpose Sensor',
       'ocf': None,
+      'parent_device_id': '6a2d07a4-dd77-48bc-9acf-017029aaf099',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -269,6 +277,7 @@
       'location_id': '6911ddf5-f0cb-4516-a06a-3a2a6ec22bca',
       'name': 'Multipurpose Sensor',
       'ocf': None,
+      'parent_device_id': '6a2d07a4-dd77-48bc-9acf-017029aaf099',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -298,6 +307,7 @@
       'location_id': '6911ddf5-f0cb-4516-a06a-3a2a6ec22bca',
       'name': 'Multipurpose Sensor',
       'ocf': None,
+      'parent_device_id': '6a2d07a4-dd77-48bc-9acf-017029aaf099',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -327,6 +337,7 @@
       'location_id': '6911ddf5-f0cb-4516-a06a-3a2a6ec22bca',
       'name': 'multi-sensor',
       'ocf': None,
+      'parent_device_id': '6a2d07a4-dd77-48bc-9acf-017029aaf099',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -354,6 +365,7 @@
       'location_id': '6911ddf5-f0cb-4516-a06a-3a2a6ec22bca',
       'name': 'motion-temp-battery',
       'ocf': None,
+      'parent_device_id': '6a2d07a4-dd77-48bc-9acf-017029aaf099',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -383,6 +395,7 @@
       'location_id': '6911ddf5-f0cb-4516-a06a-3a2a6ec22bca',
       'name': 'multi-sensor',
       'ocf': None,
+      'parent_device_id': '6a2d07a4-dd77-48bc-9acf-017029aaf099',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -412,6 +425,7 @@
       'location_id': '6911ddf5-f0cb-4516-a06a-3a2a6ec22bca',
       'name': 'multi-sensor',
       'ocf': None,
+      'parent_device_id': '6a2d07a4-dd77-48bc-9acf-017029aaf099',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -478,6 +492,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'VD-STV-2023',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -541,6 +556,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'VD-STV-2022',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -568,6 +584,7 @@
       'location_id': '6911ddf5-f0cb-4516-a06a-3a2a6ec22bca',
       'name': 'aeotec-home-energy-meter-gen5',
       'ocf': None,
+      'parent_device_id': '6a2d07a4-dd77-48bc-9acf-017029aaf099',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
     }),
   ])
@@ -599,6 +616,7 @@
       'location_id': 'fe14085e-bacb-4997-bc0c-df08204eaea2',
       'name': 'sensibo-airconditioner-1',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -692,6 +710,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-WM-WM-01011',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -715,6 +734,7 @@
       'location_id': 'fe14085e-bacb-4997-bc0c-df08204eaea2',
       'name': 'SmartThings v3 Hub',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.HUB: 'HUB'>,
     }),
     dict({
@@ -738,6 +758,7 @@
       'location_id': 'fe14085e-bacb-4997-bc0c-df08204eaea2',
       'name': 'SmartThings v3 Hub',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.HUB: 'HUB'>,
     }),
     dict({
@@ -764,6 +785,7 @@
       'location_id': 'fe14085e-bacb-4997-bc0c-df08204eaea2',
       'name': 'Aeotec Switch',
       'ocf': None,
+      'parent_device_id': '148606b0-9c62-417c-8c0a-c6e4ef7ce269',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
     }),
     dict({
@@ -791,6 +813,7 @@
       'location_id': 'fe14085e-bacb-4997-bc0c-df08204eaea2',
       'name': 'sensibo-airconditioner-1',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -817,6 +840,7 @@
       'location_id': 'fe14085e-bacb-4997-bc0c-df08204eaea2',
       'name': 'Aeotec Switch',
       'ocf': None,
+      'parent_device_id': '71526aa9-6457-417a-9bae-b83c87761e6a',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
     }),
     dict({
@@ -844,6 +868,7 @@
       'location_id': 'fe14085e-bacb-4997-bc0c-df08204eaea2',
       'name': 'sensibo-airconditioner-1',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
   ])
@@ -941,6 +966,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-WM-WM-01011',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -1003,6 +1029,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'VD-SMONITOR-2023',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
   ])
@@ -1030,6 +1057,7 @@
       'location_id': 'c4904031-30e5-4920-9ea7-0a768e355b2a',
       'name': 'SmartThings v2 Hub',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.HUB: 'HUB'>,
     }),
     dict({
@@ -1056,6 +1084,7 @@
       'location_id': 'c4904031-30e5-4920-9ea7-0a768e355b2a',
       'name': 'base-lock',
       'ocf': None,
+      'parent_device_id': 'd7c54320-6d75-4543-ab1f-9bd105336aae',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
     }),
     dict({
@@ -1149,6 +1178,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-WM-WM-01011',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
   ])
@@ -1242,6 +1272,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-WM-WM-000001',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -1304,6 +1335,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'VD-STV-2021',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -1350,6 +1382,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'VD-NetworkAudio-002S',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -1413,6 +1446,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'VD-STV-2022',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -1436,6 +1470,7 @@
       'location_id': 'eed0e167-e793-459b-80cb-a0b02e2b86c2',
       'name': 'SmartThings v3 Hub',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.HUB: 'HUB'>,
     }),
     dict({
@@ -1496,6 +1531,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'VD-STV_2018_K',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -1569,6 +1605,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-KS-WALLOVEN-000003',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -1600,6 +1637,7 @@
       'location_id': 'eed0e167-e793-459b-80cb-a0b02e2b86c2',
       'name': 'sonos-player',
       'ocf': None,
+      'parent_device_id': '2f7f7d2b-e683-48ae-86f7-e57df6a0bce2',
       'type': <DeviceType.LAN: 'LAN'>,
     }),
     dict({
@@ -1804,6 +1842,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-REF-NORMAL-01011',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -1879,6 +1918,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-WM-WD-000001',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
   ])
@@ -2087,6 +2127,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-REF-NORMAL-01011',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -2176,6 +2217,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-WM-WM-000001',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -2200,6 +2242,7 @@
       'location_id': 'df59873c-4e2c-43ba-bcd4-ade4efb0504a',
       'name': 'Sleeping State',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIRTUAL: 'VIRTUAL'>,
     }),
     dict({
@@ -2262,6 +2305,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-WM-SC-000001',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -2302,6 +2346,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'VD-Sensor.Sound-2023',
       }),
+      'parent_device_id': '425ac77a-f7c9-a62d-ff12-cdad144952e3',
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -2368,6 +2413,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'VD-FRAME-2024',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -2407,6 +2453,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'VD-Sensor.Light-2023',
       }),
+      'parent_device_id': '425ac77a-f7c9-a62d-ff12-cdad144952e3',
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -2454,6 +2501,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'VD-NetworkAudio-003S',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
   ])
@@ -2487,6 +2535,7 @@
       'location_id': '88a3a314-f0c8-40b4-bb44-44ba06c9c42f',
       'name': 'hue-color-temperature-bulb',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -2518,6 +2567,7 @@
       'location_id': '88a3a314-f0c8-40b4-bb44-44ba06c9c42f',
       'name': 'hue-rgbw-color-bulb',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -2547,6 +2597,7 @@
       'location_id': '88a3a314-f0c8-40b4-bb44-44ba06c9c42f',
       'name': 'hue-color-temperature-bulb',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -2573,6 +2624,7 @@
       'location_id': '88a3a314-f0c8-40b4-bb44-44ba06c9c42f',
       'name': 'c2c-shade',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -2599,6 +2651,7 @@
       'location_id': '88a3a314-f0c8-40b4-bb44-44ba06c9c42f',
       'name': 'c2c-shade',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -2628,6 +2681,7 @@
       'location_id': '88a3a314-f0c8-40b4-bb44-44ba06c9c42f',
       'name': 'hue-color-temperature-bulb',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -2654,6 +2708,7 @@
       'location_id': '88a3a314-f0c8-40b4-bb44-44ba06c9c42f',
       'name': 'c2c-motion-2',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -2683,6 +2738,7 @@
       'location_id': '88a3a314-f0c8-40b4-bb44-44ba06c9c42f',
       'name': 'hue-color-temperature-bulb',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -2712,6 +2768,7 @@
       'location_id': '88a3a314-f0c8-40b4-bb44-44ba06c9c42f',
       'name': 'hue-color-temperature-bulb',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -2743,6 +2800,7 @@
       'location_id': '88a3a314-f0c8-40b4-bb44-44ba06c9c42f',
       'name': 'hue-rgbw-color-bulb',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -2768,6 +2826,7 @@
       'location_id': '88a3a314-f0c8-40b4-bb44-44ba06c9c42f',
       'name': 'c2c-thermostat-bridge-1',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -2799,6 +2858,7 @@
       'location_id': '88a3a314-f0c8-40b4-bb44-44ba06c9c42f',
       'name': 'hue-rgbw-color-bulb',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -2826,6 +2886,7 @@
       'location_id': '88a3a314-f0c8-40b4-bb44-44ba06c9c42f',
       'name': 'c2c-humidity',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -2857,6 +2918,7 @@
       'location_id': '88a3a314-f0c8-40b4-bb44-44ba06c9c42f',
       'name': 'hue-rgbw-color-bulb',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -2882,6 +2944,7 @@
       'location_id': '88a3a314-f0c8-40b4-bb44-44ba06c9c42f',
       'name': 'c2c-switch',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -2913,6 +2976,7 @@
       'location_id': '88a3a314-f0c8-40b4-bb44-44ba06c9c42f',
       'name': 'hue-rgbw-color-bulb',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -2942,6 +3006,7 @@
       'location_id': '88a3a314-f0c8-40b4-bb44-44ba06c9c42f',
       'name': 'hue-color-temperature-bulb',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -2973,6 +3038,7 @@
       'location_id': '88a3a314-f0c8-40b4-bb44-44ba06c9c42f',
       'name': 'hue-rgbw-color-bulb',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -3002,6 +3068,7 @@
       'location_id': '88a3a314-f0c8-40b4-bb44-44ba06c9c42f',
       'name': 'hue-color-temperature-bulb',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -3033,6 +3100,7 @@
       'location_id': '88a3a314-f0c8-40b4-bb44-44ba06c9c42f',
       'name': 'hue-rgbw-color-bulb',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
   ])
@@ -3110,6 +3178,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-KS-RANGE-0101X',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
   ])
@@ -3189,6 +3258,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-WM-WD-000001',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -3250,6 +3320,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-WM-DW-000001',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -3318,6 +3389,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-KS-MICROWAVE-0101X',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -3495,6 +3567,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-REF-NORMAL-01001',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -3518,6 +3591,7 @@
       'location_id': '2487472a-06c4-4bce-8f4c-700c5f8644f8',
       'name': 'SmartThings Hub',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.HUB: 'HUB'>,
     }),
     dict({
@@ -3567,6 +3641,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-RVC-NORMAL-000001',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -3656,6 +3731,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-WM-WM-000001',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
   ])
@@ -3695,6 +3771,7 @@
       'location_id': 'redacted_locid',
       'name': 'Tag(UWB)',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.BLE_D2D: 'BLE_D2D'>,
     }),
     dict({
@@ -3784,6 +3861,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-WM-WM-000001',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -3819,6 +3897,7 @@
       'location_id': 'redacted_locid',
       'name': 'Tag2(UWB)',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.BLE_D2D: 'BLE_D2D'>,
     }),
     dict({
@@ -3854,6 +3933,7 @@
       'location_id': 'redacted_locid',
       'name': 'Tag2(UWB)',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.BLE_D2D: 'BLE_D2D'>,
     }),
     dict({
@@ -3889,6 +3969,7 @@
       'location_id': 'redacted_locid',
       'name': 'Tag(UWB)',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.BLE_D2D: 'BLE_D2D'>,
     }),
     dict({
@@ -3924,6 +4005,7 @@
       'location_id': 'redacted_locid',
       'name': 'Tag(UWB)',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.BLE_D2D: 'BLE_D2D'>,
     }),
     dict({
@@ -3959,6 +4041,7 @@
       'location_id': 'redacted_locid',
       'name': 'Tag(UWB)',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.BLE_D2D: 'BLE_D2D'>,
     }),
   ])
@@ -4048,6 +4131,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-AC-RAC-01001',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -4094,6 +4178,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'VD-NetworkAudio-002S',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -4136,6 +4221,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-SAC-WIFIKIT-000001',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -4200,6 +4286,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-SAC-INDOOR-000001-SUB',
       }),
+      'parent_device_id': '0e168539-061a-5f02-2beb-cc5cb6bb3b7b',
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -4285,6 +4372,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-AC-RAC-01001',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
   ])
@@ -4391,6 +4479,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-AC-RAC-000001',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
   ])
@@ -4426,6 +4515,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'c2c-arlo-pro-3-switch',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -4463,6 +4553,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'switch-level',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -4489,6 +4580,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'Outlet',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -4516,6 +4608,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'Sengled Light',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -4545,6 +4638,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'ZigBee White Color Temperature Bulb',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -4570,6 +4664,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'GE In-Wall Smart Dimmer',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
     }),
     dict({
@@ -4626,6 +4721,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'zooz-zen16-multirelay',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
     }),
     dict({
@@ -4651,6 +4747,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'GE In-Wall Smart Dimmer',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
     }),
     dict({
@@ -4681,6 +4778,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'c2c-arlo-go-switch',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -4710,6 +4808,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'Multipurpose Sensor',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -4737,6 +4836,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'Yale Push Button Deadbolt Lock',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -4798,6 +4898,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'VD-SMONITOR-2022',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -4823,6 +4924,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'Virtual Dimmer Switch',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.VIRTUAL: 'VIRTUAL'>,
     }),
     dict({
@@ -4848,6 +4950,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'ge-dimmer-assoc',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
     }),
     dict({
@@ -4874,6 +4977,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'Outlet',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -4901,6 +5005,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'contact-profile',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -4924,6 +5029,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'SmartThings Hub',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.HUB: 'HUB'>,
     }),
     dict({
@@ -5085,6 +5191,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-REF-NORMAL-000001',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -5112,6 +5219,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'Visonic Door/Window Sensor',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -5136,6 +5244,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'Virtual Contact1',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.VIRTUAL: 'VIRTUAL'>,
     }),
     dict({
@@ -5162,6 +5271,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'Outlet',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -5188,6 +5298,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'Outlet',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -5217,6 +5328,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'TRÅDFRI bulb E26 WS opal 980lm',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -5242,6 +5354,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'Virtual Switch',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.VIRTUAL: 'VIRTUAL'>,
     }),
     dict({
@@ -5266,6 +5379,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'switch-binary-indicator',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
     }),
     dict({
@@ -5291,6 +5405,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'basic-switch',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -5316,6 +5431,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'base-electric-meter',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
     }),
     dict({
@@ -5347,6 +5463,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'c2c-arlo-pro-3-switch',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -5372,6 +5489,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'ge-switch-assoc',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
     }),
     dict({
@@ -5403,6 +5521,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'c2c-arlo-pro-3-switch',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -5429,6 +5548,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'switch-level-indicator',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
     }),
     dict({
@@ -5456,6 +5576,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'Visonic Door/Window Sensor',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -5487,6 +5608,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'c2c-arlo-pro-3-switch',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -5510,6 +5632,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'iPhone',
       'ocf': None,
+      'parent_device_id': 'b8e11599-5297-4574-8e62-885995fcaa20',
       'type': <DeviceType.MOBILE: 'MOBILE'>,
     }),
     dict({
@@ -5566,6 +5689,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'VD-STV_2017_K',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -5613,6 +5737,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'virtual-calendar',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.LAN: 'LAN'>,
     }),
     dict({
@@ -5638,6 +5763,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'GE Dimmer Switch',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
     }),
     dict({
@@ -5665,6 +5791,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'plug-level-power',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -5692,6 +5819,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'Visonic Door/Window Sensor',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -5716,6 +5844,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'Water Heater Announce',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.VIRTUAL: 'VIRTUAL'>,
     }),
     dict({
@@ -5741,6 +5870,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'c2c-switch',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -5766,6 +5896,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'GE Dimmer Switch',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
     }),
     dict({
@@ -5791,6 +5922,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'SYLVANIA SMART+ Smart Plug',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -5816,6 +5948,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'c2c-arlo-siren',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -5842,6 +5975,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'GE Dimmer Switch',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
     }),
     dict({
@@ -5867,6 +6001,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'GE Dimmer Switch',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
     }),
     dict({
@@ -5896,6 +6031,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'st-multipurpose',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -5922,6 +6058,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'base-lock',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
     }),
     dict({
@@ -5951,6 +6088,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'Multipurpose Sensor',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -5978,6 +6116,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'c2c-dimmer',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -6005,6 +6144,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'switch-level',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -6031,6 +6171,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'Outlet',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -6068,6 +6209,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'switch-level',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -6094,6 +6236,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'Outlet',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -6121,6 +6264,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'Light',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -6146,6 +6290,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'ge-dimmer-assoc',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
     }),
     dict({
@@ -6173,6 +6318,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'Light',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -6204,6 +6350,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'c2c-arlo-wired-video-doorbell-battery-no-switch',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -6229,6 +6376,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'GE Dimmer Switch',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
     }),
     dict({
@@ -6255,6 +6403,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'Outlet',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -6280,6 +6429,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'GE In-Wall Smart Dimmer',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
     }),
     dict({
@@ -6309,6 +6459,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'TRÅDFRI bulb E26 WS opal 980lm',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -6332,6 +6483,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'iPhone',
       'ocf': None,
+      'parent_device_id': '6b61e197-d25a-49e5-b812-4b2501f031d9',
       'type': <DeviceType.MOBILE: 'MOBILE'>,
     }),
     dict({
@@ -6355,6 +6507,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'SmartThings v2 Hub',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.HUB: 'HUB'>,
     }),
     dict({
@@ -6384,6 +6537,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'Multipurpose Sensor',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -6415,6 +6569,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'c2c-arlo-pro-3-switch',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -6440,6 +6595,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'c2c-switch',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -6469,6 +6625,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'Multipurpose Sensor',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -6513,6 +6670,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'two-buttons-battery',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -6537,6 +6695,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'main-virtual-device',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.LAN: 'LAN'>,
     }),
     dict({
@@ -6564,6 +6723,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'on-off-level',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -6589,6 +6749,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'GE Dimmer Switch',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
     }),
     dict({
@@ -6614,6 +6775,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'GE Dimmer Switch',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
     }),
     dict({
@@ -6644,6 +6806,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'c2c-arlo-go-switch',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -6674,6 +6837,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'c2c-arlo-go-switch',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -6711,6 +6875,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'switch-level',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -6740,6 +6905,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'multi-sensor',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -6771,6 +6937,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'c2c-arlo-pro-3-switch',
       'ocf': None,
+      'parent_device_id': None,
       'type': <DeviceType.VIPER: 'VIPER'>,
     }),
     dict({
@@ -6797,6 +6964,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'GE Dimmer Switch',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
     }),
     dict({
@@ -6823,6 +6991,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'GE In-Wall Smart Dimmer',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
     }),
     dict({
@@ -6851,6 +7020,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'Motion Sensor',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZIGBEE: 'ZIGBEE'>,
     }),
     dict({
@@ -6876,6 +7046,7 @@
       'location_id': 'c4d3b2a1-09f8-765e-4d3c-2b1a09f8e7d6 ',
       'name': 'switch-level-indicator',
       'ocf': None,
+      'parent_device_id': '074fa784-8be8-4c70-8e22-6f5ed6f81b7e',
       'type': <DeviceType.ZWAVE: 'ZWAVE'>,
     }),
   ])
@@ -6953,6 +7124,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-AC-RAC-000003',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -7026,6 +7198,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-AC-RAC-000003',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -7092,6 +7265,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'VD-STV-2023',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -7165,6 +7339,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-AC-RAC-000003',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -7238,6 +7413,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-AC-RAC-000003',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
     dict({
@@ -7311,6 +7487,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-AC-RAC-000003',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
   ])
@@ -7349,6 +7526,7 @@
         'spec_version': 'core.1.1.0',
         'vendor_id': 'DA-REF-NORMAL-01001',
       }),
+      'parent_device_id': None,
       'type': <DeviceType.OCF: 'OCF'>,
     }),
   ])
@@ -7381,6 +7559,7 @@
     'location_id': '88a3a314-f0c8-40b4-bb44-44ba06c9c42f',
     'name': 'hue-color-temperature-bulb',
     'ocf': None,
+    'parent_device_id': None,
     'type': <DeviceType.VIPER: 'VIPER'>,
   })
 # ---

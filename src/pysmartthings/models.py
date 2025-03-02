@@ -224,14 +224,30 @@ class OCF(DataClassORJSONMixin):
 
     device_type: str = field(metadata=field_options(alias="ocfDeviceType"))
     name: str
-    spec_version: str = field(metadata=field_options(alias="specVersion"))
     manufacturer_name: str = field(metadata=field_options(alias="manufacturerName"))
     model_number: str = field(metadata=field_options(alias="modelNumber"))
-    platform_version: str = field(metadata=field_options(alias="platformVersion"))
-    platform_os: str = field(metadata=field_options(alias="platformOS"))
-    hardware_version: str = field(metadata=field_options(alias="hwVersion"))
-    firmware_version: str = field(metadata=field_options(alias="firmwareVersion"))
     vendor_id: str = field(metadata=field_options(alias="vendorId"))
+    spec_version: str = field(metadata=field_options(alias="specVersion"))
+    spec_version_vertical: str = field(
+        metadata=field_options(alias="verticalDomainSpecVersion")
+    )
+    last_signup: str = field(metadata=field_options(alias="lastSignupTime"))
+    transfer_candidate: bool = field(metadata=field_options(alias="transferCandidate"))
+    additional_auth_code_required: bool = field(
+        metadata=field_options(alias="additionalAuthCodeRequired")
+    )
+    platform_version: str | None = field(
+        metadata=field_options(alias="platformVersion"), default=None
+    )
+    platform_os: str | None = field(
+        metadata=field_options(alias="platformOS"), default=None
+    )
+    hardware_version: str | None = field(
+        metadata=field_options(alias="hwVersion"), default=None
+    )
+    firmware_version: str | None = field(
+        metadata=field_options(alias="firmwareVersion"), default=None
+    )
 
 
 @dataclass

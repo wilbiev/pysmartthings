@@ -37,7 +37,7 @@ jobs:
       - name: Generate
         run: python script/generate_enums.py
       - name: Run ruff
-        run: ruff check . --fix && ruff format .
+        run: poetry run ruff check . --fix && poetry run ruff format .
       - name: Remove capabilities
         run: rm -rf capabilities
       - name: Create Pull Request

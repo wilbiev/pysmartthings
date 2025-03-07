@@ -138,7 +138,7 @@ def main() -> int:  # pylint: disable=too-many-locals, too-many-statements  # no
         .replace("-", "")
         .lower(),
     ):
-        name = re.sub(r"(?<!^)(?=[A-Z])", "_", command).upper()
+        name = prepare_command_name(command)
         command_file += f'    {name} = "{command}"\n'
     command_file += "\n"
     command_file += "CAPABILITY_COMMANDS: dict[Capability, list[Command]] = {\n"
@@ -151,7 +151,7 @@ def main() -> int:  # pylint: disable=too-many-locals, too-many-statements  # no
                 cap,
                 attr2,
                 "Command",
-                lambda x: re.sub(r"(?<!^)(?=[A-Z])", "_", x).upper(),
+                prepare_command_name,
             )
         command_file += "\n"
 
@@ -165,7 +165,7 @@ def main() -> int:  # pylint: disable=too-many-locals, too-many-statements  # no
                 cap,
                 attr2,
                 "Command",
-                lambda x: re.sub(r"(?<!^)(?=[A-Z])", "_", x).upper(),
+                prepare_command_name,
             )
     command_file += "}\n"
     Path("src/pysmartthings/command.py").write_text(command_file, encoding="utf-8")

@@ -35,7 +35,7 @@ jobs:
           repository: "pysmartthings/capabilities"
           path: "capabilities"
       - name: Generate
-        run: python script/generate.py
+        run: python script/generate_enums.py
       - name: Run ruff
         run: ruff check . --fix && ruff format .
       - name: Remove capabilities

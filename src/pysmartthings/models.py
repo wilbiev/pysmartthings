@@ -535,7 +535,7 @@ class Program(DataClassORJSONMixin):
 
     program_id: str = field(metadata=field_options(alias="cycle"))
     program_type: str = field(metadata=field_options(alias="cycleType"))
-    supportedoptions: dict[SupportedOption | str, dict[ProgramOptions]]
+    supportedoptions: dict[SupportedOption | str, dict[ProgramOptions, Any]]
     bubblesoak: bool
 
 
